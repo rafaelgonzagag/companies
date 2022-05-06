@@ -13,7 +13,7 @@
             "id": 2,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -22,7 +22,7 @@
             "id": 3,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -31,7 +31,7 @@
             "id": 4,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -40,7 +40,7 @@
             "id": 5,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -49,7 +49,7 @@
             "id": 6,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -58,7 +58,7 @@
             "id": 7,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -67,7 +67,7 @@
             "id": 8,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -76,7 +76,7 @@
             "id": 9,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -85,7 +85,7 @@
             "id": 10,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -94,7 +94,7 @@
             "id": 11,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -103,7 +103,7 @@
             "id": 12,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -112,7 +112,7 @@
             "id": 13,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -121,7 +121,7 @@
             "id": 14,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -130,7 +130,7 @@
             "id": 15,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -139,7 +139,7 @@
             "id": 16,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -148,7 +148,7 @@
             "id": 17,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -157,7 +157,7 @@
             "id": 18,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -166,7 +166,7 @@
             "id": 19,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -175,7 +175,7 @@
             "id": 20,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -184,7 +184,7 @@
             "id": 21,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -192,7 +192,7 @@
             "id": 22,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -201,7 +201,7 @@
             "id": 23,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -210,7 +210,7 @@
             "id": 24,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
@@ -219,7 +219,7 @@
             "id": 25,
 	        "cnpj": "33.625.337/0001-43",
             "name": "Epresa Development ME Ltda",
-            "pickup_service": true,
+            "pickup_service": false,
             "address": {
                 "address_line1": "R. Aparecido Ferraz - Parque Santa Isabel, Sorocaba - SP, Brasil"
             }
